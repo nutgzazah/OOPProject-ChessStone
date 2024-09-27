@@ -1,6 +1,6 @@
 ## Overview
 
-![Logo](assets/icons/ChessStone-logo.png)<br>
+![Logo](assets/icons/ChessStone_logo.png)<br>
 **ChessStone** is a desktop application which provides a Chess GUI written in Python using PyQt5, along with an integrated chess engine written in pure Python.<br>
 Our program is focused on playing strength, and has an Elo rating of ~2150.
 
