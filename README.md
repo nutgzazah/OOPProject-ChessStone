@@ -18,4 +18,4 @@ pip install matplotlib
 pip install PyQt5
 ```
 
-After installation the program can be executed with `python main.py`.
+After installation the program can be executed with `python main.py`!!
